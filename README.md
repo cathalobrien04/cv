@@ -16,7 +16,7 @@
 - On road signalling
 ----------
 ## Education
-   #### [Secondary Education, Colaiste Chriost Ri](https://nodeca.github.io/pica/demo/)__
+   #### [Secondary Education, Colaiste Chriost Ri](https://nodeca.github.io/pica/demo/)
    - Current Transition Year Student 
    - Completed junior cert exam 2019
    - Help with technology around the school and my home and family
