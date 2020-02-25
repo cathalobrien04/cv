@@ -5,18 +5,18 @@
 
 ## Experience
 
-### __[kitchen porter](https://nodeca.github.io/pica/demo/)__
+### kitchen porter
 - Vegtable Preperation
 - Front of House Service
 - Front of House Clear Up
 
-### [Traffic Management](https://nodeca.github.io/pica/demo/)
+### Traffic Management
 - Carpark Design
 - Implemenentation of in and out system
 - On road signalling
 
 ## Education
-### [Secondary Education, Colaiste Chriost Ri](https://nodeca.github.io/pica/demo/)
+### Secondary Education, [Colaiste Chriost Ri](http://ccrcork.com/)
 - Current Transition Year Student 
 - Completed junior cert exam 2019
 - Help with technology around the school and my home and family
